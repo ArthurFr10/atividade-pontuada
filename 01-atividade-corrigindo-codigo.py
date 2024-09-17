@@ -50,11 +50,11 @@ def media_par_impar(a):
     return par, impar, quantidade_par, quantidade_impar
 
 def positivo_negativo(a):
-    contador_postivo = 0
+    contador_positivo = 0
     contador_negativo = 0
     for numero in a:
         if numero >= 0:
-            contador_positivo =+ 1
+            contador_positivo += 1
         else:
             contador_negativo += 1
     return contador_positivo, contador_negativo
