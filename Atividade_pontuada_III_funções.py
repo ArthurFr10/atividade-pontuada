@@ -1,6 +1,13 @@
 import os
 os.system("cls || clear")
 
+# Componentes da equipe:
+# Arthur Fraga de Oliveira
+# Heloisa Lima de Oliveira
+# Júlia vitória dos Santos Azevedo Jesus
+#Iran Ferreira
+
+
 lista_numero = []
 contador= 0
 QUANTIDADE_NUMERO = 5
